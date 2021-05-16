@@ -9,7 +9,7 @@
 dwm_connman () {
     printf "%s" "$SEP1"
     if [ "$IDENTIFIER" = "unicode" ]; then
-        printf "🌐 "
+        printf " "
     else
         printf "NET "
     fi

@@ -1,5 +1,5 @@
 # dwm-bar
-A modular statusbar for dwm
+A modular statusbar for dwm. Awesome-Font Implementation. Forked from Joestandring/dwm-bar
 ![screenshot](sshot.png)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J11S7DZ)
 ## Table of Contents

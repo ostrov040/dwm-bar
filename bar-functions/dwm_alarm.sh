@@ -11,7 +11,7 @@ dwm_alarm () {
         if [ -e "$f" ]; then
             printf "%s" "$SEP1"
             if [ "$IDENTIFIER" = "unicode" ]; then
-                printf "⏰ %s" "$(cat /tmp/alarm.*)"
+                printf " %s" "$(cat /tmp/alarm.*)"
             else
                 printf "ALM %s" "$(cat /tmp/alarm.*)"
             fi

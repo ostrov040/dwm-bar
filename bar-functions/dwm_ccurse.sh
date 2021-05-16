@@ -13,7 +13,7 @@ dwm_ccurse () {
     if [ "$APPOINTMENT" != "" ]; then
         printf "%s" "$SEP1"
         if [ "$IDENTIFIER" = "unicode" ]; then
-            printf "💡 %s" "$APPOINTMENT"
+            printf " %s" "$APPOINTMENT"
         else
             printf "APT %s" "$APPOINTMENT"
         fi
